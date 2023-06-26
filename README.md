@@ -8,4 +8,8 @@
 
 Step 1: Download file \
 Step 2: Extract File \
-Step 3: Open file and click 
+Step 3: Open the file and click on injector \
+Step 4: After that select the path of GENSHIN IMPACT \
+Step 5: Ưait and when GI opens press TAB to open Menu \
+Step 6 : Enjoy game!!
+
