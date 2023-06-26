@@ -6,6 +6,6 @@
 
 # Setup 
 
-> Step 1: Download file
-> Step 2: Extract File
-> Step 3: Open file and click 
+Step 1: Download file \
+Step 2: Extract File \
+Step 3: Open file and click 
